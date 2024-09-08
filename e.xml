@@ -54,6 +54,9 @@
 	<programme channel="4K综艺" start="20240909014000 +0800" stop="20240909024900 +0800">
 		<title lang="zh">儿行千里20170910</title>
 	</programme>
+	<programme channel="4K综艺" start="20240909024900 +0800" stop="20240909035100 +0800">
+		<title lang="zh">儿行千里20170917</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -50586,6 +50589,12 @@
 	<programme channel="纯享4K" start="20240909022800 +0800" stop="20240909025700 +0800">
 		<title lang="zh">好吃客4K 重庆</title>
 	</programme>
+	<programme channel="纯享4K" start="20240909025700 +0800" stop="20240909030400 +0800">
+		<title lang="zh">绿水青山行4K 生态扶贫系列：沙棘别样红</title>
+	</programme>
+	<programme channel="纯享4K" start="20240909030400 +0800" stop="20240909034900 +0800">
+		<title lang="zh">传承b7智慧篇4K 第1集 点线之间</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -60429,6 +60438,9 @@
 	<programme channel="newtv超级电视剧" start="20240909023200 +0800" stop="20240909031300 +0800">
 		<title lang="zh">33_叛逆者</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240909031300 +0800" stop="20240909035500 +0800">
+		<title lang="zh">34_叛逆者</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -60440,6 +60452,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240909021000 +0800" stop="20240909030500 +0800">
 		<title lang="zh">27_侦察英雄</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240909030500 +0800" stop="20240909040000 +0800">
+		<title lang="zh">28_侦察英雄</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -60459,6 +60474,9 @@
 	<programme channel="newtv精品纪录" start="20240909023500 +0800" stop="20240909030500 +0800">
 		<title lang="zh">第4集：回得去的故土，躺不平的人生——技术高管的数字化转身</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240909030500 +0800" stop="20240909040200 +0800">
+		<title lang="zh">01_下一站，火星</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -60470,6 +60488,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240909021800 +0800" stop="20240909030300 +0800">
 		<title lang="zh">16_上古情歌</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240909030300 +0800" stop="20240909035600 +0800">
+		<title lang="zh">17_上古情歌</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -60483,6 +60504,9 @@
 	<programme channel="newtv军旅剧场" start="20240909022700 +0800" stop="20240909032200 +0800">
 		<title lang="zh">32_南侨机工英雄传</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240909032200 +0800" stop="20240909041800 +0800">
+		<title lang="zh">33_南侨机工英雄传</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -60494,6 +60518,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240909020200 +0800" stop="20240909024800 +0800">
 		<title lang="zh">39_安家</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240909024800 +0800" stop="20240909034200 +0800">
+		<title lang="zh">40_安家</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -60512,6 +60539,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240909021200 +0800" stop="20240909030700 +0800">
 		<title lang="zh">19_天地姻缘七仙女</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240909030700 +0800" stop="20240909040200 +0800">
+		<title lang="zh">20_天地姻缘七仙女</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -60537,6 +60567,9 @@
 	<programme channel="newtv怡伴健康" start="20240909023700 +0800" stop="20240909033000 +0800">
 		<title lang="zh">20_我和我的儿女们</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240909033000 +0800" stop="20240909035700 +0800">
+		<title lang="zh">海底万花筒——与珊瑚礁共生（上）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -60548,6 +60581,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240909022500 +0800" stop="20240909032600 +0800">
 		<title lang="zh">12_我和我爸的十七岁</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240909032600 +0800" stop="20240909042100 +0800">
+		<title lang="zh">13_我和我爸的十七岁</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -60576,6 +60612,12 @@
 	<programme channel="newtv军事评论" start="20240909024300 +0800" stop="20240909030400 +0800">
 		<title lang="zh">俄乌无人机新较量</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240909030400 +0800" stop="20240909032600 +0800">
+		<title lang="zh">伊朗空军迎来“强力外援”</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240909032600 +0800" stop="20240909034800 +0800">
+		<title lang="zh">福建舰首航凯旋</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -60591,6 +60633,15 @@
 	<programme channel="newtv炫舞未来" start="20240909024100 +0800" stop="20240909025400 +0800">
 		<title lang="zh">领航-李萍（完整版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240909025400 +0800" stop="20240909030300 +0800">
+		<title lang="zh">中国力量-李萍（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240909031500 +0800" stop="20240909031900 +0800">
+		<title lang="zh">阿里山的姑娘-毕刚（舞蹈展示）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240909032200 +0800" stop="20240909043900 +0800">
+		<title lang="zh">爱要勇敢说出来 男嘉宾借采访表白（20240709）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -60599,6 +60650,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240909015600 +0800" stop="20240909032900 +0800">
 		<title lang="zh">令人心动的offer第4季</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240909032900 +0800" stop="20240909041400 +0800">
+		<title lang="zh">01_黄河在咆哮</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
