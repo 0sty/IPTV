@@ -31182,6 +31182,9 @@
 	<programme channel="咪咕综合体育" start="20241201090000 +0800" stop="20241201113000 +0800">
 		<title lang="zh">2024杭州马拉松</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20241201113500 +0800" stop="20241201120000 +0800">
+		<title lang="zh">欧陆足球版图</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -42989,6 +42992,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20241201100000 +0800" stop="20241201112400 +0800">
 		<title lang="zh">谎言大爆炸</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20241201112400 +0800" stop="20241201123700 +0800">
+		<title lang="zh">昆仑谜宫</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -70170,6 +70176,9 @@
 	<programme channel="纯享4K" start="20241201111200 +0800" stop="20241201114200 +0800">
 		<title lang="zh">寻古中国4K 寻夏记b7华夏青铜</title>
 	</programme>
+	<programme channel="纯享4K" start="20241201114200 +0800" stop="20241201121200 +0800">
+		<title lang="zh">寻古中国4K 寻夏记b7夏禾丰裕</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -85197,6 +85206,9 @@
 	<programme channel="黑莓动画" start="20241201111200 +0800" stop="20241201113900 +0800">
 		<title lang="zh">钶龙战记</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241201113900 +0800" stop="20241201120200 +0800">
+		<title lang="zh">百变布鲁可第4季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -86340,6 +86352,9 @@
 	<programme channel="newtv精品大剧" start="20241201105000 +0800" stop="20241201113800 +0800">
 		<title lang="zh">英国奥戈那折叠式取暖器-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20241201113800 +0800" stop="20241201122300 +0800">
+		<title lang="zh">15_倚天屠龙记</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -86436,6 +86451,9 @@
 	<programme channel="newtv古装剧场" start="20241201103900 +0800" stop="20241201112500 +0800">
 		<title lang="zh">45_长歌行</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20241201112500 +0800" stop="20241201121000 +0800">
+		<title lang="zh">27_九流霸主</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -86480,6 +86498,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20241201110100 +0800" stop="20241201114200 +0800">
 		<title lang="zh">03_前夜</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20241201114200 +0800" stop="20241201123100 +0800">
+		<title lang="zh">BEYONPAN钛锅升级款-渠道（右）</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -86567,6 +86588,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20241201105300 +0800" stop="20241201114100 +0800">
 		<title lang="zh">POKONDA智能四轮电动代步车-渠道（右）</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20241201114100 +0800" stop="20241201131300 +0800">
+		<title lang="zh">终极硬汉</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -86688,6 +86712,9 @@
 	<programme channel="newtv怡伴健康" start="20241201103500 +0800" stop="20241201112000 +0800">
 		<title lang="zh">33_新边城浪子</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20241201112000 +0800" stop="20241201120500 +0800">
+		<title lang="zh">34_新边城浪子</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -86732,6 +86759,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20241201105500 +0800" stop="20241201114300 +0800">
 		<title lang="zh">POKONDA智能四轮电动代步车-渠道（右）</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20241201114300 +0800" stop="20241201122900 +0800">
+		<title lang="zh">李子柒视频合集</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -86811,6 +86841,12 @@
 	<programme channel="newtv军事评论" start="20241201105800 +0800" stop="20241201112000 +0800">
 		<title lang="zh">上古战记b7进攻罗马（上）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241201112000 +0800" stop="20241201114200 +0800">
+		<title lang="zh">上古战记b7高卢围攻战（上）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20241201114200 +0800" stop="20241201120400 +0800">
+		<title lang="zh">上古战记b7高卢围攻战（下）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -86864,6 +86900,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20241201111200 +0800" stop="20241201114000 +0800">
 		<title lang="zh">被破坏的房屋（20240730）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241201114000 +0800" stop="20241201120800 +0800">
+		<title lang="zh">不寻常的“事故”（20240731）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -86933,6 +86972,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20241201100000 +0800" stop="20241201112400 +0800">
 		<title lang="zh">谎言大爆炸</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20241201112400 +0800" stop="20241201123700 +0800">
+		<title lang="zh">昆仑谜宫</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -87068,6 +87110,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20241201105500 +0800" stop="20241201114400 +0800">
 		<title lang="zh">KGTOUE体感语音操控大吸力烟机-渠道（右）</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20241201114400 +0800" stop="20241201121900 +0800">
+		<title lang="zh">16_墓王之王</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
