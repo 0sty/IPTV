@@ -26925,6 +26925,9 @@
 	<programme channel="咪咕足球" start="20250330111000 +0800" stop="20250330112000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250330112000 +0800" stop="20250330124000 +0800">
+		<title lang="zh">村BA</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -63069,6 +63072,9 @@
 	<programme channel="纯享4K" start="20250330110500 +0800" stop="20250330114500 +0800">
 		<title lang="zh">探索b7发现4K 匠人b7匠心（14）</title>
 	</programme>
+	<programme channel="纯享4K" start="20250330114500 +0800" stop="20250330122700 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 高黎贡山的自然家园</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -78756,6 +78762,9 @@
 	<programme channel="newtv超级电视剧" start="20250330104900 +0800" stop="20250330113500 +0800">
 		<title lang="zh">10_岁岁年年柿柿红</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250330113500 +0800" stop="20250330122000 +0800">
+		<title lang="zh">11_岁岁年年柿柿红</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -78804,6 +78813,9 @@
 	<programme channel="newtv精品大剧" start="20250330105800 +0800" stop="20250330112800 +0800">
 		<title lang="zh">万向旋转净水器推广片4001087099</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250330112800 +0800" stop="20250330121400 +0800">
+		<title lang="zh">27_加油！妈妈（4K）</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -78851,6 +78863,12 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250330100600 +0800" stop="20250330111900 +0800">
 		<title lang="zh">第7集：生活不是爽文</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250330111900 +0800" stop="20250330114400 +0800">
+		<title lang="zh">05_成都b7方所书店</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250330114400 +0800" stop="20250330123300 +0800">
+		<title lang="zh">06_武汉b7又合书舍</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -79035,6 +79053,9 @@
 	<programme channel="newtv热播精选" start="20250330103900 +0800" stop="20250330112400 +0800">
 		<title lang="zh">28_独孤天下</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250330112400 +0800" stop="20250330120900 +0800">
+		<title lang="zh">BEYONPAN多功能钛养生壶加赠组-渠道（右）</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -79152,6 +79173,9 @@
 	<programme channel="newtv怡伴健康" start="20250330110600 +0800" stop="20250330113400 +0800">
 		<title lang="zh">谁在炮制低俗视频（上）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250330113400 +0800" stop="20250330122200 +0800">
+		<title lang="zh">BEYONPAN全钛养生壶-渠道（右）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -79200,6 +79224,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250330104000 +0800" stop="20250330112900 +0800">
 		<title lang="zh">超能康红蓝光治疗仪-医用折叠光量子治疗仪-渠道（右）</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250330112900 +0800" stop="20250330122500 +0800">
+		<title lang="zh">风味人间第5季</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -79247,6 +79274,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250330102700 +0800" stop="20250330112000 +0800">
 		<title lang="zh">烽火兵工 第2集 胶东大地铸传奇</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250330112000 +0800" stop="20250330121100 +0800">
+		<title lang="zh">烽火兵工 第3集 钢铁柳沟旗帜扬</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -79388,6 +79418,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250330082200 +0800" stop="20250330113500 +0800">
 		<title lang="zh">星光大道（2024）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250330113500 +0800" stop="20250330132700 +0800">
+		<title lang="zh">登录圆鱼洲</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
