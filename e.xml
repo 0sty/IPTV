@@ -17586,6 +17586,9 @@
 	<programme channel="咪咕足球" start="20250518111000 +0800" stop="20250518112000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250518112000 +0800" stop="20250518124000 +0800">
+		<title lang="zh">村BA</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -56634,6 +56637,9 @@
 	<programme channel="newtv超级综艺" start="20250518103900 +0800" stop="20250518113900 +0800">
 		<title lang="zh">非常6+1</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250518113900 +0800" stop="20250518125600 +0800">
+		<title lang="zh">向幸福出发</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -56745,6 +56751,9 @@
 	<programme channel="newtv超级电视剧" start="20250518103900 +0800" stop="20250518112500 +0800">
 		<title lang="zh">27_驻站</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250518112500 +0800" stop="20250518121000 +0800">
+		<title lang="zh">28_驻站</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -56786,6 +56795,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250518104400 +0800" stop="20250518112800 +0800">
 		<title lang="zh">10_三十而已</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250518112800 +0800" stop="20250518120800 +0800">
+		<title lang="zh">思独鲜八珍糕99元   高清10分钟   400-108-7099</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -56985,6 +56997,9 @@
 	<programme channel="newtv热播精选" start="20250518102300 +0800" stop="20250518112700 +0800">
 		<title lang="zh">32_锦绣安宁</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250518112700 +0800" stop="20250518121500 +0800">
+		<title lang="zh">AKG39900西兰花种子水提物固体饮料-渠道（右）</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -57018,6 +57033,9 @@
 	<programme channel="newtv爱情喜剧" start="20250518103900 +0800" stop="20250518112400 +0800">
 		<title lang="zh">29_公诉</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250518112400 +0800" stop="20250518120800 +0800">
+		<title lang="zh">LECEA蒸汽富硒养生饭煲-渠道（右）</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -57041,6 +57059,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250518103800 +0800" stop="20250518112600 +0800">
 		<title lang="zh">AKG39900西兰花种子水提物固体饮料-渠道（右）</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250518112600 +0800" stop="20250518133600 +0800">
+		<title lang="zh">西风烈</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -57200,6 +57221,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250518105800 +0800" stop="20250518112000 +0800">
 		<title lang="zh">走向深蓝（5）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250518112000 +0800" stop="20250518114200 +0800">
+		<title lang="zh">海上利器</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
