@@ -27924,6 +27924,9 @@
 	<programme channel="咪咕足球" start="20250724135000 +0800" stop="20250724141500 +0800">
 		<title lang="zh">睛彩b7体坛深瞳第二期</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250724142000 +0800" stop="20250724154000 +0800">
+		<title lang="zh">2025全运会男篮资格赛 B组第4轮 河北-天津</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -40488,6 +40491,9 @@
 	<programme channel="惊悚悬疑" start="20250724131100 +0800" stop="20250724144100 +0800">
 		<title lang="zh">雷霆行动</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250724144100 +0800" stop="20250724153000 +0800">
+		<title lang="zh">自然之臻阿拉善冬季荒漠肉苁蓉100%纯原浆-渠道（右）</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -44066,6 +44072,12 @@
 	</programme>
 	<programme channel="明星大片" start="20250724135200 +0800" stop="20250724141600 +0800">
 		<title lang="zh">31_樱桃小丸子 第二季普通话版</title>
+	</programme>
+	<programme channel="明星大片" start="20250724141600 +0800" stop="20250724143600 +0800">
+		<title lang="zh">南同虫草菌丝体洋参胶囊01</title>
+	</programme>
+	<programme channel="明星大片" start="20250724143600 +0800" stop="20250724150000 +0800">
+		<title lang="zh">32_樱桃小丸子 第二季普通话版</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -61491,6 +61503,9 @@
 	<programme channel="爱情喜剧" start="20250724134900 +0800" stop="20250724143100 +0800">
 		<title lang="zh">31_幸福有配方</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250724143100 +0800" stop="20250724151100 +0800">
+		<title lang="zh">黑藤黑根俪缇植物黑发霜</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -67298,6 +67313,12 @@
 	</programme>
 	<programme channel="纯享4K" start="20250724134700 +0800" stop="20250724141600 +0800">
 		<title lang="zh">好吃客4K 绍兴</title>
+	</programme>
+	<programme channel="纯享4K" start="20250724141600 +0800" stop="20250724144000 +0800">
+		<title lang="zh">了不起的冬天4K 第10集 了不起的冬天</title>
+	</programme>
+	<programme channel="纯享4K" start="20250724144000 +0800" stop="20250724153000 +0800">
+		<title lang="zh">大敦煌4K 第4集 再造敦煌</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -84786,6 +84807,9 @@
 	<programme channel="newtv精品大剧" start="20250724130200 +0800" stop="20250724141500 +0800">
 		<title lang="zh">34_问心</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250724141500 +0800" stop="20250724150100 +0800">
+		<title lang="zh">35_问心</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -84831,6 +84855,9 @@
 	<programme channel="newtv精品纪录" start="20250724134000 +0800" stop="20250724142500 +0800">
 		<title lang="zh">07_医者仁心</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250724142500 +0800" stop="20250724150400 +0800">
+		<title lang="zh">美国云杉小分子PPC结节散-渠道（右）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -84872,6 +84899,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250724133700 +0800" stop="20250724142500 +0800">
 		<title lang="zh">41_燕云台</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250724142500 +0800" stop="20250724150400 +0800">
+		<title lang="zh">DR.SUNFLOWER韩国原装进口红参牙膏-渠道（右）</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -84917,6 +84947,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250724131500 +0800" stop="20250724142700 +0800">
 		<title lang="zh">15_跨过鸭绿江</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250724142700 +0800" stop="20250724152400 +0800">
+		<title lang="zh">16_跨过鸭绿江</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -84966,6 +84999,9 @@
 	<programme channel="newtv家庭剧场" start="20250724134100 +0800" stop="20250724142000 +0800">
 		<title lang="zh">DR.SUNFLOWER韩国原装进口红参牙膏-渠道（右）</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250724142000 +0800" stop="20250724150500 +0800">
+		<title lang="zh">18_永夜星河</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -85014,6 +85050,9 @@
 	<programme channel="newtv热播精选" start="20250724134900 +0800" stop="20250724142900 +0800">
 		<title lang="zh">虾青素推广片4001087099</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250724142900 +0800" stop="20250724152200 +0800">
+		<title lang="zh">01_证词</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -85052,6 +85091,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250724134900 +0800" stop="20250724143100 +0800">
 		<title lang="zh">31_幸福有配方</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250724143100 +0800" stop="20250724151100 +0800">
+		<title lang="zh">黑藤黑根俪缇植物黑发霜</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -85290,6 +85332,12 @@
 	<programme channel="newtv军事评论" start="20250724140000 +0800" stop="20250724142200 +0800">
 		<title lang="zh">突袭迪耶普之谜（上）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250724142200 +0800" stop="20250724144400 +0800">
+		<title lang="zh">全景一战b7落幕（下）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250724144400 +0800" stop="20250724150500 +0800">
+		<title lang="zh">突袭迪耶普之谜（中）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -85383,6 +85431,12 @@
 	<programme channel="newtv精品综合" start="20250724135200 +0800" stop="20250724141600 +0800">
 		<title lang="zh">31_樱桃小丸子 第二季普通话版</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250724141600 +0800" stop="20250724143600 +0800">
+		<title lang="zh">南同虫草菌丝体洋参胶囊01</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250724143600 +0800" stop="20250724150000 +0800">
+		<title lang="zh">32_樱桃小丸子 第二季普通话版</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -85418,6 +85472,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250724131100 +0800" stop="20250724144100 +0800">
 		<title lang="zh">雷霆行动</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250724144100 +0800" stop="20250724153000 +0800">
+		<title lang="zh">自然之臻阿拉善冬季荒漠肉苁蓉100%纯原浆-渠道（右）</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -85559,6 +85616,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250724134900 +0800" stop="20250724142900 +0800">
 		<title lang="zh">黑藤黑根俪缇植物黑发霜</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250724142900 +0800" stop="20250724153400 +0800">
+		<title lang="zh">08_有翡</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
