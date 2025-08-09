@@ -20868,6 +20868,9 @@
 	<programme channel="动作电影" start="20250809105600 +0800" stop="20250809112600 +0800">
 		<title lang="zh">保罗麦克牛皮凉席</title>
 	</programme>
+	<programme channel="动作电影" start="20250809112600 +0800" stop="20250809125800 +0800">
+		<title lang="zh">白垩纪世界</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -28064,6 +28067,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250809095500 +0800" stop="20250809113500 +0800">
 		<title lang="zh">当燃CBA-24/25赛季常规赛第38轮 浙江稠州金租-北京北汽</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250809114500 +0800" stop="20250809131500 +0800">
+		<title lang="zh">我爱女篮-24/25WCBA季后赛半决赛第2轮 四川蜀道远达-山西竹叶青酒</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -61071,6 +61077,9 @@
 	<programme channel="爱情喜剧" start="20250809091100 +0800" stop="20250809112400 +0800">
 		<title lang="zh">舞出我人生</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250809112400 +0800" stop="20250809121000 +0800">
+		<title lang="zh">37_蔷薇风暴</title>
+	</programme>
 	<channel id="玉林公共">
 		<display-name lang="zh">玉林公共</display-name>
 	</channel>
@@ -66725,6 +66734,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250809104600 +0800" stop="20250809113500 +0800">
 		<title lang="zh">良渚4K 第2集 礼玉天工</title>
+	</programme>
+	<programme channel="纯享4K" start="20250809113500 +0800" stop="20250809121700 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 黄河岸边 两城风味</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -83850,6 +83862,12 @@
 	<programme channel="newtv超级综艺" start="20250809103400 +0800" stop="20250809112400 +0800">
 		<title lang="zh">我的艺术清单</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250809112400 +0800" stop="20250809115800 +0800">
+		<title lang="zh">动物园里有什么</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20250809115800 +0800" stop="20250809131500 +0800">
+		<title lang="zh">越战越勇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -83879,6 +83897,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250809100000 +0800" stop="20250809120000 +0800">
 		<title lang="zh">2025年跨喜马拉雅国际公路自行车极限赛-拉萨绕圈赛</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250809120000 +0800" stop="20250809130500 +0800">
+		<title lang="zh">体坛快讯</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -83955,6 +83976,9 @@
 	<programme channel="newtv超级电视剧" start="20250809110200 +0800" stop="20250809114800 +0800">
 		<title lang="zh">34_爱的二八定律</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250809114800 +0800" stop="20250809123400 +0800">
+		<title lang="zh">35_爱的二八定律</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -83993,6 +84017,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250809105400 +0800" stop="20250809114100 +0800">
 		<title lang="zh">29_长歌行</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250809114100 +0800" stop="20250809123100 +0800">
+		<title lang="zh">盛世国宝熊猫币珍藏组-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -84062,6 +84089,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250809102700 +0800" stop="20250809113200 +0800">
 		<title lang="zh">茯苓添康健康2</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250809113200 +0800" stop="20250809121700 +0800">
+		<title lang="zh">41_独孤天下</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -84174,6 +84204,9 @@
 	<programme channel="newtv热播精选" start="20250809104900 +0800" stop="20250809112500 +0800">
 		<title lang="zh">17_岁岁青莲</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250809112500 +0800" stop="20250809115600 +0800">
+		<title lang="zh">保罗麦克牛皮凉席</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -84200,6 +84233,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250809091100 +0800" stop="20250809112400 +0800">
 		<title lang="zh">舞出我人生</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250809112400 +0800" stop="20250809121000 +0800">
+		<title lang="zh">37_蔷薇风暴</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -84230,6 +84266,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250809105600 +0800" stop="20250809112600 +0800">
 		<title lang="zh">保罗麦克牛皮凉席</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250809112600 +0800" stop="20250809125800 +0800">
+		<title lang="zh">白垩纪世界</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -84276,6 +84315,9 @@
 	<programme channel="newtv怡伴健康" start="20250809101200 +0800" stop="20250809112300 +0800">
 		<title lang="zh">34_最好的时代</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250809112300 +0800" stop="20250809120700 +0800">
+		<title lang="zh">35_最好的时代</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -84317,6 +84359,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250809103500 +0800" stop="20250809112000 +0800">
 		<title lang="zh">16_新洛神</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250809112000 +0800" stop="20250809121000 +0800">
+		<title lang="zh">盛世国宝熊猫币珍藏组-渠道（右）</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -84383,6 +84428,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250809110300 +0800" stop="20250809113000 +0800">
 		<title lang="zh">环球兵器大事件</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250809113000 +0800" stop="20250809115200 +0800">
+		<title lang="zh">从俄乌冲突看海上攻防新样态</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
