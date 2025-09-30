@@ -44106,6 +44106,9 @@
 	<programme channel="明星大片" start="20250930193800 +0800" stop="20250930200800 +0800">
 		<title lang="zh">《花样人生》推荐第63期</title>
 	</programme>
+	<programme channel="明星大片" start="20250930200800 +0800" stop="20250930205500 +0800">
+		<title lang="zh">06_玫瑰的故事</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -62289,6 +62292,9 @@
 	<programme channel="爱情喜剧" start="20250930193400 +0800" stop="20250930200400 +0800">
 		<title lang="zh">《花样人生》推荐第63期</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250930200400 +0800" stop="20250930205400 +0800">
+		<title lang="zh">13_永安梦</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -68432,6 +68438,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250930194000 +0800" stop="20250930202100 +0800">
 		<title lang="zh">远方的家4K 大运河（20） 从枫桥到阊门</title>
+	</programme>
+	<programme channel="纯享4K" start="20250930202100 +0800" stop="20250930210300 +0800">
+		<title lang="zh">远方的家4K 大运河（21） 江南水乡 姑苏风情</title>
 	</programme>
 	<channel id="绍兴文化影视">
 		<display-name lang="zh">绍兴文化影视</display-name>
@@ -86259,6 +86268,9 @@
 	<programme channel="newtv超级电视剧" start="20250930192900 +0800" stop="20250930201600 +0800">
 		<title lang="zh">09_梅花红桃</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250930201600 +0800" stop="20250930210300 +0800">
+		<title lang="zh">10_梅花红桃</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -86354,6 +86366,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250930193600 +0800" stop="20250930202100 +0800">
 		<title lang="zh">18_我们队伍向太阳</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250930202100 +0800" stop="20250930210600 +0800">
+		<title lang="zh">19_我们队伍向太阳</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -86469,6 +86484,9 @@
 	<programme channel="newtv精品纪录" start="20250930194800 +0800" stop="20250930201800 +0800">
 		<title lang="zh">《花样人生》推荐第63期</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250930201800 +0800" stop="20250930204300 +0800">
+		<title lang="zh">第5集 韩愈：楚狂小子</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -86562,6 +86580,9 @@
 	<programme channel="newtv古装剧场" start="20250930194500 +0800" stop="20250930202900 +0800">
 		<title lang="zh">28_雁回时</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250930202900 +0800" stop="20250930211200 +0800">
+		<title lang="zh">29_雁回时</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -86648,6 +86669,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250930193400 +0800" stop="20250930202000 +0800">
 		<title lang="zh">42_伏击</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250930202000 +0800" stop="20250930205000 +0800">
+		<title lang="zh">《花样人生》推荐第63期</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -86736,6 +86760,9 @@
 	<programme channel="newtv家庭剧场" start="20250930192800 +0800" stop="20250930201400 +0800">
 		<title lang="zh">29_失笑</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250930201400 +0800" stop="20250930210400 +0800">
+		<title lang="zh">30_失笑</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -86820,6 +86847,9 @@
 	<programme channel="newtv热播精选" start="20250930195400 +0800" stop="20250930202900 +0800">
 		<title lang="zh">04_西出玉门</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250930202900 +0800" stop="20250930205900 +0800">
+		<title lang="zh">《花样人生》推荐第63期</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -86895,6 +86925,9 @@
 	<programme channel="newtv爱情喜剧" start="20250930193400 +0800" stop="20250930200400 +0800">
 		<title lang="zh">《花样人生》推荐第63期</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250930200400 +0800" stop="20250930205400 +0800">
+		<title lang="zh">13_永安梦</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -86954,6 +86987,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250930183500 +0800" stop="20250930201200 +0800">
 		<title lang="zh">荒野逃生</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250930201200 +0800" stop="20250930204200 +0800">
+		<title lang="zh">《花样人生》推荐第63期</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -87156,6 +87192,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250930194800 +0800" stop="20250930201800 +0800">
 		<title lang="zh">《花样人生》推荐第63期</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250930201800 +0800" stop="20250930223500 +0800">
+		<title lang="zh">吹哨人</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -87288,6 +87327,9 @@
 	<programme channel="newtv军事评论" start="20250930195600 +0800" stop="20250930202100 +0800">
 		<title lang="zh">换将领 增军援 特朗普发力台海</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250930202100 +0800" stop="20250930204700 +0800">
+		<title lang="zh">联手监视解放军 日菲各有所图</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -87372,6 +87414,9 @@
 	<programme channel="newtv炫舞未来" start="20250930194600 +0800" stop="20250930202400 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250930202400 +0800" stop="20250930211100 +0800">
+		<title lang="zh">20_折腰</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -87455,6 +87500,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250930193800 +0800" stop="20250930200800 +0800">
 		<title lang="zh">《花样人生》推荐第63期</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250930200800 +0800" stop="20250930205500 +0800">
+		<title lang="zh">06_玫瑰的故事</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
