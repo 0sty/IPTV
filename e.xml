@@ -28474,6 +28474,9 @@
 	<programme channel="咪咕综合体育" start="20251031094500 +0800" stop="20251031112500 +0800">
 		<title lang="zh">英超赛场-25/26赛季英超 第9轮 布伦特福德-利物浦</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251031113000 +0800" stop="20251031115500 +0800">
+		<title lang="zh">中超精华 第28轮</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -28524,6 +28527,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20251031095000 +0800" stop="20251031113000 +0800">
 		<title lang="zh">当燃CBA-24/25赛季常规赛第45轮 北京北汽-浙江稠州金租</title>
+	</programme>
+	<programme channel="咪咕足球" start="20251031113000 +0800" stop="20251031113400 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20251031113400 +0800" stop="20251031115900 +0800">
+		<title lang="zh">睛彩b7体坛深瞳第九期</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -69052,6 +69061,9 @@
 	<programme channel="纯享4K" start="20251031104300 +0800" stop="20251031112300 +0800">
 		<title lang="zh">荣宝斋4K 第2集 宝增艺圃</title>
 	</programme>
+	<programme channel="纯享4K" start="20251031112300 +0800" stop="20251031120400 +0800">
+		<title lang="zh">远方的家4K 大运河 北京跨越600年</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -86599,6 +86611,9 @@
 	<programme channel="newtv超级电视剧" start="20251031110000 +0800" stop="20251031114600 +0800">
 		<title lang="zh">29_在暴雪时分</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251031114600 +0800" stop="20251031123200 +0800">
+		<title lang="zh">30_在暴雪时分</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -87174,6 +87189,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251031103000 +0800" stop="20251031112400 +0800">
 		<title lang="zh">王正坤：无限风光在险峰</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251031112400 +0800" stop="20251031121800 +0800">
+		<title lang="zh">朱文立：执着“天青”终为“汝”</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
