@@ -17721,6 +17721,12 @@
 	<programme channel="咪咕综合体育" start="20251111094000 +0800" stop="20251111112000 +0800">
 		<title lang="zh">英超赛场-25/26赛季英超 第11轮 托特纳姆热刺-曼联</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251111112500 +0800" stop="20251111115000 +0800">
+		<title lang="zh">中超精华 第29轮</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20251111115000 +0800" stop="20251111120000 +0800">
+		<title lang="zh">全运时刻-香港全运星看团第二期</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17768,6 +17774,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20251111094500 +0800" stop="20251111112500 +0800">
 		<title lang="zh">当燃CBA-24/25赛季常规赛第31轮 辽宁本钢-上海久事</title>
+	</programme>
+	<programme channel="咪咕足球" start="20251111112500 +0800" stop="20251111113500 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -47781,6 +47790,9 @@
 	<programme channel="纯享4K" start="20251111110000 +0800" stop="20251111112900 +0800">
 		<title lang="zh">好吃客4K 北京素食</title>
 	</programme>
+	<programme channel="纯享4K" start="20251111112900 +0800" stop="20251111121000 +0800">
+		<title lang="zh">远方的家4K 大运河特辑（13） 古都北京 与世界握手</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -59196,6 +59208,9 @@
 	<programme channel="newtv超级综艺" start="20251111095500 +0800" stop="20251111112600 +0800">
 		<title lang="zh">中央广播电视总台主持人大赛 新闻主播季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251111112600 +0800" stop="20251111122600 +0800">
+		<title lang="zh">沧海运河谣</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59352,6 +59367,9 @@
 	<programme channel="newtv精品大剧" start="20251111104100 +0800" stop="20251111112800 +0800">
 		<title lang="zh">08_三十而已</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20251111112800 +0800" stop="20251111121300 +0800">
+		<title lang="zh">09_三十而已</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -59412,6 +59430,9 @@
 	<programme channel="newtv精品纪录" start="20251111105700 +0800" stop="20251111113500 +0800">
 		<title lang="zh">第4集：探秘</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251111113500 +0800" stop="20251111122000 +0800">
+		<title lang="zh">第5集：守候</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -59462,6 +59483,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20251111105700 +0800" stop="20251111113700 +0800">
 		<title lang="zh">营养健康40</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20251111113700 +0800" stop="20251111122100 +0800">
+		<title lang="zh">14_穆桂英挂帅</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -59613,6 +59637,9 @@
 	<programme channel="newtv热播精选" start="20251111104200 +0800" stop="20251111112800 +0800">
 		<title lang="zh">46_扶摇</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20251111112800 +0800" stop="20251111120800 +0800">
+		<title lang="zh">营养健康40</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -59654,6 +59681,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20251111110200 +0800" stop="20251111114200 +0800">
 		<title lang="zh">营养健康40</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20251111114200 +0800" stop="20251111122800 +0800">
+		<title lang="zh">23_值得爱</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -59889,6 +59919,9 @@
 	<programme channel="newtv军事评论" start="20251111111000 +0800" stop="20251111113500 +0800">
 		<title lang="zh">粤港澳青少年军营初体验</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251111113500 +0800" stop="20251111120000 +0800">
+		<title lang="zh">永不褪色的战旗</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -59948,6 +59981,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251111111200 +0800" stop="20251111112200 +0800">
 		<title lang="zh">国药药材氨糖软骨素片10min</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251111113000 +0800" stop="20251111130500 +0800">
+		<title lang="zh">索朗次仁一曲《神往的故乡》 2023年度总冠军诞生（20240203）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
