@@ -14403,6 +14403,12 @@
 	<programme channel="咪咕综合体育" start="20260110101000 +0800" stop="20260110115000 +0800">
 		<title lang="zh">中超来噜-2025赛季中超 第30轮 北京国安-梅州客家</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260110115000 +0800" stop="20260110120000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260110120500 +0800" stop="20260110123000 +0800">
+		<title lang="zh">睛彩b7体坛深瞳第十三期</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -14462,6 +14468,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260110112500 +0800" stop="20260110113500 +0800">
 		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260110120500 +0800" stop="20260110134500 +0800">
+		<title lang="zh">我爱女篮-25/26WCBA常规赛 第5轮 新疆天山-江苏南钢</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -38631,6 +38640,9 @@
 	<programme channel="纯享4K" start="20260110111900 +0800" stop="20260110113400 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 铜版画b7马球运动员</title>
 	</programme>
+	<programme channel="纯享4K" start="20260110113900 +0800" stop="20260110122100 +0800">
+		<title lang="zh">远方的家4K 我家那片海 大海上的科技之光</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -48624,6 +48636,9 @@
 	<programme channel="newtv超级电影" start="20260110100600 +0800" stop="20260110114000 +0800">
 		<title lang="zh">垫底联盟</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260110114000 +0800" stop="20260110124800 +0800">
+		<title lang="zh">毒战生死线</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -48728,6 +48743,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20260110110800 +0800" stop="20260110115300 +0800">
 		<title lang="zh">43_爱的理想生活[DVD版]</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20260110115300 +0800" stop="20260110124300 +0800">
+		<title lang="zh">美国进口FeiGRS磷脂酰丝氨酸-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -48990,6 +49008,9 @@
 	<programme channel="newtv热播精选" start="20260110105000 +0800" stop="20260110113900 +0800">
 		<title lang="zh">05_空姐日记</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20260110113900 +0800" stop="20260110121400 +0800">
+		<title lang="zh">少林筋骨消痛保健膏家庭装-渠道（右）</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -49128,6 +49149,9 @@
 	<programme channel="newtv怡伴健康" start="20260110111600 +0800" stop="20260110115800 +0800">
 		<title lang="zh">生活圈</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20260110115800 +0800" stop="20260110123700 +0800">
+		<title lang="zh">杨洪昌白花蛇颈腰椎膏</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -49178,6 +49202,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20260110105500 +0800" stop="20260110114200 +0800">
 		<title lang="zh">51_三生三世枕上书</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20260110114200 +0800" stop="20260110121700 +0800">
+		<title lang="zh">BURRSAIL荣耀真钻机械腕表尊享组-渠道（右）</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -49235,6 +49262,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20260110112100 +0800" stop="20260110114700 +0800">
 		<title lang="zh">军营年味别样浓 家乡味道抚人心</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20260110114700 +0800" stop="20260110121200 +0800">
+		<title lang="zh">军营年味别样浓 海防前哨的会餐计划</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -49307,6 +49337,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20260110112500 +0800" stop="20260110115500 +0800">
 		<title lang="zh">健康生活-鱼油</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20260110115500 +0800" stop="20260110125500 +0800">
+		<title lang="zh">房子代表不了我的心</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -49394,6 +49427,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20260110111100 +0800" stop="20260110114600 +0800">
 		<title lang="zh">泰国Napattiga人参健发养护洗发水-渠道（右）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20260110114600 +0800" stop="20260110131700 +0800">
+		<title lang="zh">鬼吹灯之湘西密藏</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -49559,6 +49595,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20260110104900 +0800" stop="20260110113600 +0800">
 		<title lang="zh">38_燕云台</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20260110113600 +0800" stop="20260110121100 +0800">
+		<title lang="zh">杨洪昌白花蛇颈腰椎膏-渠道（右）</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
