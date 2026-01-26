@@ -2,19 +2,43 @@ name: EPG Update
 
 on:
   push:
+    branches: [ master, main ]
   schedule:
-    - cron: 0 * * * *
+    # cron表达式：分 时 日 月 周，*/3 表示每3小时执行一次
+    - cron: '0 */3 * * *'  
 
 jobs:
-  build:
+  update-epg:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-    - uses: actions/checkout@v3
-    - name: EPG Update
-      run: |
-        rm -f e.xml && wget https://epg.112114.xyz/pp.xml -O e.xml
-        git config --global user.name 0sty
-        git config --global user.email 3021442078@qq.com
-        git add e.xml
-        git commit -m "Update e.xml"
-        git push -f origin main
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+
+      - name: Download and extract EPG file
+        run: |
+          rm -f e.xml.gz e.xml || true
+          wget --timeout=10 http://epg.51zmt.top:8000/e.xml.gz || {
+            echo "Error: 下载EPG压缩包失败"
+            exit 1
+          }
+          gunzip e.xml.gz
+          if [ ! -s e.xml ]; then
+            echo "Error: 解压后的e.xml文件为空"
+            exit 1
+          fi
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          if git diff --quiet e.xml; then
+            echo "Info: e.xml文件无变化，无需提交"
+            exit 0
+          fi
+          git add e.xml
+          git commit -m "Auto update EPG: $(date +'%Y-%m-%d %H:%M:%S')"
+          git push origin ${{ github.ref_name }}
